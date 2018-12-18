@@ -1,0 +1,21 @@
+#main{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title{
+    font-size: 50px;
+}
+
+.counties{
+    fill: black;
+}
+
+#tooltip{
+    padding: 3px;
+    background: rgba(248, 248, 150, 0.75);
+    position: absolute;
+    font-size: 14px;
+
+    font-family: 'Aleo', serif;
+}
